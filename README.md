@@ -1,1 +1,2 @@
-# python-code-sample-4
+# f = float(input())
+# print((5 / 9) * (f - 32))
